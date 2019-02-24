@@ -1,0 +1,17 @@
+
+Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat.debug.xcconfig
+Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat-resources.sh
+Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat-frameworks.sh
+Pods/Target Support Files/nanopb/nanopb.xcconfig
+Pods/Target Support Files/leveldb-library/leveldb-library.xcconfig
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.xcconfig
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.xcconfig
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/Pods-QuickChat.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/nanopb.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/leveldb-library.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/GTMSessionFetcher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/msheikh.xcuserdatad/xcschemes/GoogleToolboxForMac.xcscheme
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Manifest.lock
+Podfile.lock

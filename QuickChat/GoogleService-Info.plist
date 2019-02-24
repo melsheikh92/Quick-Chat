@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>243213928537-270fjc2lc3fev1reo1kt5vl4lgrr706v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.243213928537-270fjc2lc3fev1reo1kt5vl4lgrr706v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvaThZSnp6MLLRTvP53ib2McniHJsfPoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>243213928537</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melsheikh.QuickChat</string>
+	<key>PROJECT_ID</key>
+	<string>realm2-a6831</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realm2-a6831.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:243213928537:ios:b74e6613d2af3bd1</string>
+	<key>DATABASE_URL</key>
+	<string>https://realm2-a6831.firebaseio.com</string>
+</dict>
+</plist>

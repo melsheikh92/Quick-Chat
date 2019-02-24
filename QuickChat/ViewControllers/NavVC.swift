@@ -109,8 +109,8 @@ class NavVC: UINavigationController, UICollectionViewDelegate, UICollectionViewD
         self.mapPreviewView.bottomAnchor.constraint(equalTo: extraViewsContainer.bottomAnchor).isActive = true
         //NotificationCenter for showing extra views
         NotificationCenter.default.addObserver(self, selector: #selector(self.showExtraViews(notification:)), name: NSNotification.Name(rawValue: "showExtraView"), object: nil)
-        self.fetchUsers()
-        self.fetchUserInfo()
+//        self.fetchUsers()
+//        self.fetchUserInfo()
 
     }
     
