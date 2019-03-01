@@ -1,6 +1,6 @@
 
 Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat.debug.xcconfig
-Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat-resources.sh
+Pods/*
 Pods/Target Support Files/Pods-QuickChat/Pods-QuickChat-frameworks.sh
 Pods/Target Support Files/nanopb/nanopb.xcconfig
 Pods/Target Support Files/leveldb-library/leveldb-library.xcconfig
